@@ -21,7 +21,9 @@ If you are going to be Hosting through `repl.it` then follow these steps!
 
 Select Create new Repl
 Then select "Import from Github" and paste this repo's link `york9675/PoS-Music`
+
 ![image](https://media.discordapp.net/attachments/947773974954262588/993825755672883200/unknown.png)
+
 Then Select Import from Github
 Add your token and API in the `config.json` File in the correct lines
 The click the "Run" Button on top, and you'll get a screen like this
@@ -30,6 +32,7 @@ The click the "Run" Button on top, and you'll get a screen like this
 
 Copy the top link, Now we are going to host it 24/7 by using [UptimeRobot](https://uptimerobot.com/)
 Login and set up and account over there, then click add monitor and make your settings like this
+
 ![image](https://media.discordapp.net/attachments/947773974954262588/993826837841055785/unknown.png)
 
 
