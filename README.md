@@ -92,7 +92,7 @@ Examples: `1` or `1,2,3`
 * Now Playing (ub!nowplaying, ub!np)
 * Queue system (ub!queue, ub!q)
 * Loop / Repeat (ub!loop)
-* Shuffle (/shuffle)
+* Shuffle (ub!shuffle)
 * Volume control (ub!volume, ub!v)
 * Lyrics (ub!lyrics, ub!ly)
 * Pause (ub!pause)
@@ -103,6 +103,7 @@ Examples: `1` or `1,2,3`
 * Toggle pruning of bot messages (ub!pruning)
 * Disconnect (ub!disconnect, ub!dc)
 * Help Center (ub!help, ub!h)
+* And much more!
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
 
