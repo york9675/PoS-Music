@@ -46,13 +46,14 @@ Go to the `config.json` file, then add the token and API key
 
 ```json
 {
-  "TOKEN": "",
-  "YOUTUBE_API_KEY": "",
-  "SOUNDCLOUD_CLIENT_ID": "",
-  "MAX_PLAYLIST_SIZE": 10,
+  "TOKEN": "YOUR TOKEN HERE",
+  "YOUTUBE_API_KEY": "YT API KEY HERE",
+  "SOUNDCLOUD_CLIENT_ID": "(Options)Soundcloud Client ID Here",
+  "MAX_PLAYLIST_SIZE": 100,
   "PREFIX": "ub!",
   "PRUNING": false,
-  "STAY_TIME": 30
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
 }
 ```
 ---
