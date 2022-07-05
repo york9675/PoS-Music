@@ -21,16 +21,16 @@ If you are going to be Hosting through `repl.it` then follow these steps!
 
 Select Create new Repl
 Then select "Import from Github" and paste this repo's link `york9675/PoS-Music`
-![image](https://user-images.githubusercontent.com/64059000/125392348-a289cd80-e3c3-11eb-91fc-237fbc561624.png)
+![image](https://media.discordapp.net/attachments/947773974954262588/993825755672883200/unknown.png)
 Then Select Import from Github
 Add your token and API in the `config.json` File in the correct lines
 The click the "Run" Button on top, and you'll get a screen like this
 
-![image](https://user-images.githubusercontent.com/64059000/125397359-74a88700-e3cb-11eb-9ad7-a471bff8b32f.png)
+![image](https://media.discordapp.net/attachments/947773974954262588/993826360755761162/unknown.png)
 
 Copy the top link, Now we are going to host it 24/7 by using [UptimeRobot](https://uptimerobot.com/)
 Login and set up and account over there, then click add monitor and make your settings like this
-![image](https://user-images.githubusercontent.com/64059000/125397477-a15c9e80-e3cb-11eb-9438-08711afe87fd.png)
+![image](https://media.discordapp.net/attachments/947773974954262588/993826837841055785/unknown.png)
 
 
 After creating a monitor, UptimeRobot would come and wake your website every 5 minitues. Which would make your repl hosted 24/7
@@ -102,7 +102,7 @@ Examples: `1` or `1,2,3`
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
 
-![image](https://user-images.githubusercontent.com/64059000/125394568-7cfec300-e3c7-11eb-85c9-50a56b743c8a.png)
+![image](https://media.discordapp.net/attachments/947773974954262588/993827538671513680/unknown.png)
 
 ---
 
