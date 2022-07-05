@@ -116,6 +116,6 @@ Feel Free to fork this repo and make changes! :D
 Also you can contribute or fix issues if any
 Just git-pull after making changes, your help is greatly appreciated
 
-## 📝 Credits and Thanks
+## ✅ Discord server
 
-This was inspired heavily by [@KingRain](https://github.com/KingRain)! A lot of credit goes towards him, you can go and check out his [version](https://github.com/KingRain/SimpleDiscordMusicBot)
+You can join my discord server [ℙ𝕦𝕣𝕤𝕦𝕚𝕥 𝕠𝕗 𝕊𝕡𝕖𝕖𝕕](https://discord.gg/gASqnJYCWc)!
