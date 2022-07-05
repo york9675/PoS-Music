@@ -64,19 +64,19 @@ Go to the `config.json` file, then add the token and API key
 
 * 🎶 Play music from YouTube via url
 
-`ub!play https://www.youtube.com/watch?v=GLvohMXgcBo`
+`ub!play https://www.youtube.com/watch?v=vQ3XgMKAgxc`
 
 * 🔎 Play music from YouTube via search query
 
-`ub!play under the bridge red hot chili peppers`
+`ub!play Avicii - Lonely Together`
 
 * 🎶 Play music from Soundcloud via url
 
-`ub!play https://soundcloud.com/blackhorsebrigade/pearl-jam-alive`
+`ub!play https://soundcloud.com/aviciiofficial/lonely-together-acoustic-feat?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing`
 
 * 🔎 Search and select music to play
 
-`ub!search Pearl Jam`
+`ub!search Lonely Together`
 
 Reply with song number or numbers seperated by comma that you wish to play
 
