@@ -1,4 +1,4 @@
-<h1 align="center">✨ PoS Music | A Simple Discord Music Bot</h1>
+<h1 align="center">✨ PoS Music | Discord Music Bot</h1>
 
 <p align="center">
   <a href="https://github.com/york9675/PoS-Music/issues"><img src="https://img.shields.io/github/issues/york9675/PoS-Music?style=flat" /></a>
@@ -11,8 +11,8 @@
 ## Requirements
 
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
-2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
+2. YouTube Data API v3 Key **[Guide](https://www.youtube.com/watch?v=N18czV5tj5o)**  
+2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/eritislami/evobot/issues/93#issuecomment-649962700)**
 3. Node.js v12.0.0 or newer
 
 ## 🚀 Getting Started
