@@ -5,6 +5,7 @@ module.exports = {
   cooldown: 5,
   description: "Show the bot's average ping",
   execute(message) {
+    
     let commands = message.client.commands.array();
 
     let pingEmbed = new MessageEmbed()
@@ -15,6 +16,6 @@ module.exports = {
 
       pingEmbed.setTimestamp();
     
-    return message.channel.send(pingEmbed).catch(console.error);
+    return message.channel.send(`Pong!`, pingEmbed).catch(console.error);
   }
 };
