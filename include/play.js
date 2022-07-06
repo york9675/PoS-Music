@@ -79,7 +79,7 @@ module.exports = {
     dispatcher.setVolumeLogarithmic(queue.volume / 100);
 
     try {
-      var playingMessage = await queue.textChannel.send(`🎶 Started playing: **${song.title}**`);
+      var playingMessage = await queue.textChannel.send(`🎶 Started playing: **${song.title}** - ( ${(song.duration == 0 ? " ◉ LIVE" : new Date(song.duration * 1000).toISOString().substr(11, 8))} )`);
       await playingMessage.react("⏯");
       await playingMessage.react("⏭");
       await playingMessage.react("🔇");
