@@ -25,7 +25,7 @@ If you are going to be Hosting through `repl.it` then follow these steps!
 
 2. After login, go to home page and click on "**+ Create**"
 
-![image](https://media.discordapp.net/attachments/947773974954262588/994144043657339031/unknown.png]
+![image](https://media.discordapp.net/attachments/947773974954262588/994144043657339031/unknown.png)
 
 3. Then Select "**Import from GitHub**"
 
