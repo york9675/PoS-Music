@@ -17,6 +17,7 @@ module.exports = {
 - *Add "Disconnect" command*
 - *Add "Version" command*
 - *Add "Stats" command*
+- *Improve"Play"*
 - *Improve "Ping"*
 - *Improve "Search"*
 - *Improve "Clap"*
@@ -30,7 +31,7 @@ module.exports = {
 
       versionEmbed.addField('Need help?', 'Type `ub!help` to open Help Center!')
 
-      versionEmbed.setFooter(`Beta 1750 | Last Updated: 2022/07/05 | By York`);
+      versionEmbed.setFooter(`Beta 1790 | Last Updated: 2022/07/06 | By York`);
     
     return message.channel.send(versionEmbed).catch(console.error);
   }
