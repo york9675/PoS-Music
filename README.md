@@ -15,34 +15,45 @@
 2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/eritislami/evobot/issues/93#issuecomment-649962700)**
 3. Node.js v12.0.0 or newer
 
-## 🚀 Getting Started
+## 🚀 Step-by-step Guide
 
 If you are going to be Hosting through `repl.it` then follow these steps!
 
-Select Create new Repl
-Then select "Import from Github" and paste this repo's link `york9675/PoS-Music`
+1. Go to replit website and log in or sing up
 
-![image](https://media.discordapp.net/attachments/947773974954262588/993825755672883200/unknown.png)
+![image](https://media.discordapp.net/attachments/947773974954262588/994143016870740018/unknown.png)
 
-Then Select Import from Github
-Add your token and API in the `config.json` File in the correct lines
-The click the "Run" Button on top, and you'll get a screen like this
+2. After login, go to home page and click on "**+ Create**"
 
-![image](https://media.discordapp.net/attachments/947773974954262588/993826360755761162/unknown.png)
+![image](https://media.discordapp.net/attachments/947773974954262588/994144043657339031/unknown.png]
 
-Copy the top link, Now we are going to host it 24/7 by using [UptimeRobot](https://uptimerobot.com/)
-Login and set up and account over there, then click add monitor and make your settings like this
+3. Then Select "**Import from GitHub**"
 
-![image](https://media.discordapp.net/attachments/947773974954262588/993826837841055785/unknown.png)
+![image](https://media.discordapp.net/attachments/947773974954262588/994144409740386304/unknown.png)
 
+4. Go to PoS Music GitHub page, click "**Code**" and copy the link
 
-After creating a monitor, UptimeRobot would come and wake your website every 5 minitues. Which would make your repl hosted 24/7
+![image](https://media.discordapp.net/attachments/947773974954262588/994144972360126555/unknown.png)
 
-## ⚙️ Configuration
+5. Go back to replit and paste the link in to description column
 
-Go to the `config.json` file, then add the token and API key
+![image](https://media.discordapp.net/attachments/947773974954262588/994145470572146698/unknown.png)
 
-⚠️ **Note: Make sure you don't share your Token or Api Key with anyone else, Avoid uploeding them in public repo's** ⚠️
+6. And then push this blue button!
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994145850139869255/unknown.png)
+
+7. After the replit system cloned, you should see this page 
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994146186653081661/unknown.png)
+
+8. Go to .replit window and make sure description  of "Configure the Run Command" is "`node index.js`", then click "**Done**"
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994146919150522409/unknown.png)
+
+9. Go to the `config.json` file, then add the token and API key
+
+:warning: **Note: Make sure you don't share your Token or Api Key with anyone else, Avoid uploeding them in public repo's** :warning:
 
 ```json
 {
@@ -56,6 +67,50 @@ Go to the `config.json` file, then add the token and API key
   "DEFAULT_VOLUME": 100
 }
 ```
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994147296327520256/unknown.png)
+
+10. Go to shell and enter `npm i` then WAIT!
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994151460277342268/unknown.png)
+
+11. After a long wait, we can finally run the music bot!
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994153862845960202/unknown.png)
+
+12. "Run"
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994153992974254080/unknown.png)
+
+13. Your bot is running now!
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994154476317458442/unknown.png)
+![image](https://media.discordapp.net/attachments/947773974954262588/994154476527177768/unknown.png)
+
+14. But now we are going to host it 24/7
+Go to [UptimeRobot](https://uptimerobot.com/) website and Log In or Register for FREE
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994154932682895391/unknown.png)
+
+15. Go to dashboard and click "**+ Add New Monitor**" 
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994155652513538048/unknown.png)
+
+16. Go back to replit and copy your link
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994156007011930122/unknown.png)
+
+17. Back to UptimeRobot and make your settings like this
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994156567840698438/unknown.png)
+
+18. After creating a monitor, UptimeRobot would come and wake your website every 5 minitues. Which would make your repl hosted 24/7
+
+**Enjoy your bot!**
+
+![image](https://media.discordapp.net/attachments/947773974954262588/994157094515257344/unknown.png)
+
+
 ---
 
 ## 📝 Features & Commands
