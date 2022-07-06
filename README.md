@@ -5,7 +5,7 @@
   <a href="https://github.com/york9675/PoS-Music/stargazers"><img src="https://img.shields.io/github/stars/york9675/PoS-Music?style=flat" /></a>
 </p>
 
-## PoS Music is a simple bot made in `discord.js`, I have made this one to be easily hosted through [Replit](https://replit.com)!
+## PoS Music is a simple bot made in `discord.js`, I have made this one to be easily hosted through [Replit](https://replit.com), and it working 2022!
 
 ---
 ## Requirements
