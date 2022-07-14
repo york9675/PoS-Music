@@ -9,7 +9,7 @@
 
 And **PLEASE** add this bot to tour server and vote us!
 
-[![Discord Bots](https://top.gg/api/widget/893739637653258260.svg)(https://top.gg/bot/893739637653258260)
+[Top.gg](https://top.gg/bot/893739637653258260)
 
 ---
 ## Requirements
