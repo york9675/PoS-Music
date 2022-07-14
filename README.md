@@ -8,7 +8,9 @@
 ## PoS Music is a simple bot made in `discord.js`, I have made this one to be easily hosted through [Replit](https://replit.com), and it working 2022!
 
 And **PLEASE** add this bot to tour server and vote us!
+
 [![Discord Bots](https://top.gg/api/widget/893739637653258260.svg)(https://top.gg/bot/893739637653258260)
+
 ---
 ## Requirements
 
